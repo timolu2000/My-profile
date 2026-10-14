@@ -1,21 +1,27 @@
 # Hi, I'm Michael Esan 👋
 
-I'm an aspiring **GRC (Governance, Risk, and Compliance) Specialist** based in **London, England**. I studied at **London Metropolitan University** and I'm continuing to build my knowledge through self-directed learning and practical projects. I'm particularly interested in helping organisations manage risk, maintain compliance, and strengthen their governance processes.
+I'm a **Governance, Risk, and Compliance (GRC) Specialist** based in **London, England**, with a focus on helping organisations understand risk, meet compliance requirements, and maintain effective governance and control environments.
 
-## 📚 What I'm Currently Learning
+My background combines education at **London Metropolitan University** with continuous self-directed learning and practical development in GRC, cybersecurity, risk management, and compliance.
+
+## 📚 What I'm Currently Developing
 
 - Governance, Risk, and Compliance (GRC)
-- Risk assessment and risk management
-- Compliance frameworks and controls
-- IT auditing and security compliance
-- GRC tools and platforms
-- Cybersecurity fundamentals
-- Project management
+- Risk Assessment & Risk Management
+- Compliance Frameworks & Security Controls
+- IT Audit & Compliance
+- Third-Party Risk Management
+- Cybersecurity Governance
+- GRC Platforms & Technologies
+- Project Management
 
 ## 🛠️ Skills & Tools
 
 - **Compliance Frameworks**
 - **Risk Assessment & Audit**
+- **Governance & Compliance**
+- **Risk Management**
+- **Control Assessment**
 - **Project Management**
 - **Archer**
 - **ServiceNow GRC**
@@ -23,15 +29,28 @@ I'm an aspiring **GRC (Governance, Risk, and Compliance) Specialist** based in *
 
 ## 🎯 My Goals
 
-My goal is to become a professional **GRC Specialist**, build strong hands-on experience in governance, risk, compliance, and cybersecurity, and eventually earn the **CISSP certification**.
+I'm focused on strengthening my expertise across **Governance, Risk, Compliance, and Cybersecurity**, while building practical projects that demonstrate my ability to apply GRC principles to real-world scenarios.
 
-I'm also using GitHub to document my learning journey and build a portfolio of practical **GRC projects**.
+My long-term goal is to continue developing as a **GRC Specialist** and achieve the **CISSP certification**.
+
+## 📂 GRC Portfolio
+
+I'm using GitHub to document practical projects involving:
+
+- Risk assessments
+- Risk registers
+- Compliance assessments
+- Control mapping
+- Audit documentation
+- GRC frameworks
+- Policies and procedures
+- Third-party risk assessments
 
 ## 🎮 Fun Fact About Me
 
-When I'm not learning about GRC and cybersecurity, I enjoy **watching anime, reading, and playing video games**.
+Outside of GRC and cybersecurity, I enjoy **watching anime, reading, and playing video games**.
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Add your LinkedIn profile here]
-- **Email:** [Add your professional email here]
+- **LinkedIn:** [Add your LinkedIn profile]
+- **Email:** [Add your professional email]
